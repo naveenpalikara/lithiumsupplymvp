@@ -1,0 +1,176 @@
+[
+  {
+    "id": "PROC_2024_AU_001",
+    "name": "Kwinana LiOH Refinery",
+    "entityType": "processing_facility",
+    "operator": "Tianqi Lithium",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -32.2167,
+    "longitude": 115.7667,
+    "facilityType": "conversion",
+    "processingTechnology": "sulfate_roasting",
+    "inputMaterial": {
+      "type": "spodumene_concentrate",
+      "capacity": 300000,
+      "unit": "tonnes/yr"
+    },
+    "outputProduct": {
+      "type": "LiOH",
+      "capacity": 24000,
+      "unit": "tonnes/yr",
+      "grade": "battery_grade"
+    },
+    "energyConsumption": {
+      "value": 15000,
+      "unit": "kWh/tonne"
+    },
+    "waterConsumption": {
+      "value": 8000,
+      "unit": "m³/tonne"
+    },
+    "renewableEnergyPercent": 55,
+    "utilizationRate": 89.5,
+    "status": "operational",
+    "commissioningDate": "2019-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "PROC_2024_AU_002",
+    "name": "Kemerton LiOH Plant",
+    "entityType": "processing_facility",
+    "operator": "Albemarle",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -33.2833,
+    "longitude": 115.8167,
+    "facilityType": "conversion",
+    "processingTechnology": "sulfate_roasting",
+    "inputMaterial": {
+      "type": "spodumene_concentrate",
+      "capacity": 500000,
+      "unit": "tonnes/yr"
+    },
+    "outputProduct": {
+      "type": "LiOH",
+      "capacity": 40000,
+      "unit": "tonnes/yr",
+      "grade": "battery_grade"
+    },
+    "energyConsumption": {
+      "value": 14000,
+      "unit": "kWh/tonne"
+    },
+    "waterConsumption": {
+      "value": 7500,
+      "unit": "m³/tonne"
+    },
+    "renewableEnergyPercent": 48,
+    "utilizationRate": 86.2,
+    "status": "operational",
+    "commissioningDate": "2020-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "PROC_2024_CN_001",
+    "name": "Xinjiang Li₂CO₃ Plant",
+    "entityType": "processing_facility",
+    "operator": "Ganfeng Lithium",
+    "country": "CN",
+    "countryName": "China",
+    "stateProvince": "Xinjiang",
+    "latitude": 43.8,
+    "longitude": 87.6167,
+    "facilityType": "conversion",
+    "processingTechnology": "sulfate_roasting",
+    "inputMaterial": {
+      "type": "spodumene_concentrate",
+      "capacity": 280000,
+      "unit": "tonnes/yr"
+    },
+    "outputProduct": {
+      "type": "Li₂CO₃",
+      "capacity": 22000,
+      "unit": "tonnes/yr",
+      "grade": "battery_grade"
+    },
+    "energyConsumption": {
+      "value": 18000,
+      "unit": "kWh/tonne"
+    },
+    "waterConsumption": {
+      "value": 9000,
+      "unit": "m³/tonne"
+    },
+    "renewableEnergyPercent": 30,
+    "utilizationRate": 85.0,
+    "status": "operational",
+    "confidenceLevel": "MEDIUM"
+  },
+  {
+    "id": "PROC_2024_CL_001",
+    "name": "SQM Li₂CO₃ Refinery",
+    "entityType": "processing_facility",
+    "operator": "SQM",
+    "country": "CL",
+    "countryName": "Chile",
+    "stateProvince": "Antofagasta",
+    "latitude": -23.65,
+    "longitude": -68.1833,
+    "facilityType": "conversion",
+    "processingTechnology": "ion_exchange",
+    "inputMaterial": {
+      "type": "brine",
+      "capacity": 50000,
+      "unit": "tonnes/day"
+    },
+    "outputProduct": {
+      "type": "Li₂CO₃",
+      "capacity": 40000,
+      "unit": "tonnes/yr",
+      "grade": "battery_grade"
+    },
+    "energyConsumption": {
+      "value": 12000,
+      "unit": "kWh/tonne"
+    },
+    "renewableEnergyPercent": 65,
+    "utilizationRate": 88.7,
+    "status": "operational",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "PROC_2024_US_001",
+    "name": "Silver Peak Li₂CO₃ Plant",
+    "entityType": "processing_facility",
+    "operator": "Albemarle",
+    "country": "US",
+    "countryName": "United States",
+    "stateProvince": "Nevada",
+    "latitude": 37.75,
+    "longitude": -117.9167,
+    "facilityType": "conversion",
+    "processingTechnology": "direct_lithium_extraction",
+    "inputMaterial": {
+      "type": "brine",
+      "capacity": 15000,
+      "unit": "tonnes/yr"
+    },
+    "outputProduct": {
+      "type": "Li₂CO₃",
+      "capacity": 6000,
+      "unit": "tonnes/yr",
+      "grade": "battery_grade"
+    },
+    "energyConsumption": {
+      "value": 10000,
+      "unit": "kWh/tonne"
+    },
+    "renewableEnergyPercent": 70,
+    "utilizationRate": 82.0,
+    "status": "operational",
+    "confidenceLevel": "HIGH"
+  }
+]

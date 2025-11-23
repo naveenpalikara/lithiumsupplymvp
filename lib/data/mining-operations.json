@@ -1,0 +1,275 @@
+[
+  {
+    "id": "MINE_2024_AU_001",
+    "name": "Greenbushes",
+    "entityType": "mining_operation",
+    "operator": "Talison Lithium",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -33.8665,
+    "longitude": 116.056,
+    "operationType": "hard_rock_spodumene",
+    "oreType": "spodumene",
+    "oreGrade": {
+      "value": 1.95,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 330000,
+      "unit": "tonnes_LCE"
+    },
+    "actualProduction": {
+      "value": 304500,
+      "year": 2023
+    },
+    "utilizationRate": 92.3,
+    "waterConsumption": {
+      "value": 5200,
+      "unit": "m³/tonne"
+    },
+    "carbonIntensity": {
+      "value": 3800,
+      "unit": "kg_CO₂/tonne"
+    },
+    "renewableEnergyPercent": 35,
+    "status": "operational",
+    "firstProduction": "1983-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "MINE_2024_AU_002",
+    "name": "Mt Marion",
+    "entityType": "mining_operation",
+    "operator": "Mineral Resources",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -31.1167,
+    "longitude": 119.65,
+    "operationType": "hard_rock_spodumene",
+    "oreType": "spodumene",
+    "oreGrade": {
+      "value": 1.45,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 170000,
+      "unit": "tonnes_LCE"
+    },
+    "actualProduction": {
+      "value": 148050,
+      "year": 2023
+    },
+    "utilizationRate": 87.1,
+    "waterConsumption": {
+      "value": 4800,
+      "unit": "m³/tonne"
+    },
+    "carbonIntensity": {
+      "value": 3600,
+      "unit": "kg_CO₂/tonne"
+    },
+    "renewableEnergyPercent": 40,
+    "status": "operational",
+    "firstProduction": "2017-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "MINE_2024_AU_003",
+    "name": "Pilgangoora",
+    "entityType": "mining_operation",
+    "operator": "Pilbara Minerals",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -21.35,
+    "longitude": 118.7167,
+    "operationType": "hard_rock_spodumene",
+    "oreType": "spodumene",
+    "oreGrade": {
+      "value": 1.1,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 300000,
+      "unit": "tonnes_LCE"
+    },
+    "actualProduction": {
+      "value": 247500,
+      "year": 2023
+    },
+    "utilizationRate": 82.5,
+    "waterConsumption": {
+      "value": 5000,
+      "unit": "m³/tonne"
+    },
+    "carbonIntensity": {
+      "value": 3400,
+      "unit": "kg_CO₂/tonne"
+    },
+    "renewableEnergyPercent": 45,
+    "status": "operational",
+    "firstProduction": "2018-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "MINE_2024_AU_004",
+    "name": "Wodgina",
+    "entityType": "mining_operation",
+    "operator": "Mineral Resources",
+    "country": "AU",
+    "countryName": "Australia",
+    "stateProvince": "Western Australia",
+    "latitude": -21.1833,
+    "longitude": 118.7333,
+    "operationType": "hard_rock_spodumene",
+    "oreType": "spodumene",
+    "oreGrade": {
+      "value": 1.2,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 240000,
+      "unit": "tonnes_LCE"
+    },
+    "status": "under_construction",
+    "confidenceLevel": "MEDIUM"
+  },
+  {
+    "id": "MINE_2024_CL_001",
+    "name": "Salar de Atacama",
+    "entityType": "mining_operation",
+    "operator": "SQM",
+    "country": "CL",
+    "countryName": "Chile",
+    "stateProvince": "Antofagasta",
+    "latitude": -23.5833,
+    "longitude": -68.2167,
+    "operationType": "brine_evaporation",
+    "oreType": "brine",
+    "oreGrade": {
+      "value": 1400,
+      "unit": "mg/L"
+    },
+    "nameplateCapacity": {
+      "value": 120000,
+      "unit": "tonnes_LCE"
+    },
+    "actualProduction": {
+      "value": 109440,
+      "year": 2023
+    },
+    "utilizationRate": 91.2,
+    "waterConsumption": {
+      "value": 650000,
+      "unit": "m³/tonne"
+    },
+    "carbonIntensity": {
+      "value": 2800,
+      "unit": "kg_CO₂/tonne"
+    },
+    "renewableEnergyPercent": 60,
+    "status": "operational",
+    "firstProduction": "1984-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "MINE_2024_CL_002",
+    "name": "Salar de Maricunga",
+    "entityType": "mining_operation",
+    "operator": "Lithium Americas",
+    "country": "CL",
+    "countryName": "Chile",
+    "stateProvince": "Atacama",
+    "latitude": -26.3167,
+    "longitude": -68.7667,
+    "operationType": "brine_evaporation",
+    "oreType": "brine",
+    "oreGrade": {
+      "value": 1200,
+      "unit": "mg/L"
+    },
+    "nameplateCapacity": {
+      "value": 150000,
+      "unit": "tonnes_LCE"
+    },
+    "status": "planned",
+    "confidenceLevel": "MEDIUM"
+  },
+  {
+    "id": "MINE_2024_AR_001",
+    "name": "Cauchari-Olaroz",
+    "entityType": "mining_operation",
+    "operator": "Ganfeng Lithium",
+    "country": "AR",
+    "countryName": "Argentina",
+    "stateProvince": "Jujuy",
+    "latitude": -23.0833,
+    "longitude": -66.7167,
+    "operationType": "brine_evaporation",
+    "oreType": "brine",
+    "oreGrade": {
+      "value": 1200,
+      "unit": "mg/L"
+    },
+    "nameplateCapacity": {
+      "value": 40000,
+      "unit": "tonnes_LCE"
+    },
+    "utilizationRate": 78.4,
+    "status": "under_construction",
+    "confidenceLevel": "MEDIUM"
+  },
+  {
+    "id": "MINE_2024_CN_001",
+    "name": "Ganzizhou Lithium (Xinjiang)",
+    "entityType": "mining_operation",
+    "operator": "Ganfeng Lithium",
+    "country": "CN",
+    "countryName": "China",
+    "stateProvince": "Xinjiang",
+    "latitude": 42.5,
+    "longitude": 86.0,
+    "operationType": "hard_rock_spodumene",
+    "oreType": "spodumene",
+    "oreGrade": {
+      "value": 1.2,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 150000,
+      "unit": "tonnes_LCE"
+    },
+    "actualProduction": {
+      "value": 135000,
+      "year": 2023
+    },
+    "utilizationRate": 90.0,
+    "status": "operational",
+    "confidenceLevel": "MEDIUM"
+  },
+  {
+    "id": "MINE_2024_US_001",
+    "name": "Thacker Pass",
+    "entityType": "mining_operation",
+    "operator": "Lithium Americas",
+    "country": "US",
+    "countryName": "United States",
+    "stateProvince": "Nevada",
+    "latitude": 41.4167,
+    "longitude": -117.8833,
+    "operationType": "clay_deposit",
+    "oreType": "clay",
+    "oreGrade": {
+      "value": 1.8,
+      "unit": "%Li₂O"
+    },
+    "nameplateCapacity": {
+      "value": 300000,
+      "unit": "tonnes_LCE"
+    },
+    "status": "planned",
+    "confidenceLevel": "MEDIUM"
+  }
+]

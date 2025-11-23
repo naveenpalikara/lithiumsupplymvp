@@ -1,0 +1,155 @@
+[
+  {
+    "id": "BATT_2024_US_001",
+    "name": "Tesla Gigafactory Nevada",
+    "entityType": "battery_manufacturing",
+    "operator": "Tesla",
+    "country": "US",
+    "countryName": "United States",
+    "stateProvince": "Nevada",
+    "latitude": 39.5361,
+    "longitude": -119.4392,
+    "facilityType": "gigafactory",
+    "batteryChemistry": ["NCA", "NMC811"],
+    "annualCapacity": {
+      "value": 38.0,
+      "unit": "GWh"
+    },
+    "lithiumInput": {
+      "value": 45000,
+      "unit": "tonnes/yr",
+      "material": "LiOH"
+    },
+    "energyConsumption": {
+      "value": 150,
+      "unit": "kWh/kWh_battery"
+    },
+    "renewableEnergyPercent": 65,
+    "utilizationRate": 91.2,
+    "status": "operational",
+    "commissioningDate": "2016-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "BATT_2024_US_002",
+    "name": "LG Energy Solution Holland Michigan",
+    "entityType": "battery_manufacturing",
+    "operator": "LG Energy Solution",
+    "country": "US",
+    "countryName": "United States",
+    "stateProvince": "Michigan",
+    "latitude": 42.7875,
+    "longitude": -86.1089,
+    "facilityType": "battery_plant",
+    "batteryChemistry": ["LFP"],
+    "annualCapacity": {
+      "value": 16.5,
+      "unit": "GWh"
+    },
+    "lithiumInput": {
+      "value": 25000,
+      "unit": "tonnes/yr",
+      "material": "Li₂CO₃"
+    },
+    "energyConsumption": {
+      "value": 140,
+      "unit": "kWh/kWh_battery"
+    },
+    "renewableEnergyPercent": 50,
+    "utilizationRate": 84.0,
+    "status": "operational",
+    "commissioningDate": "2020-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "BATT_2024_CN_001",
+    "name": "CATL Ningde Facility 1",
+    "entityType": "battery_manufacturing",
+    "operator": "CATL",
+    "country": "CN",
+    "countryName": "China",
+    "stateProvince": "Fujian",
+    "latitude": 26.6617,
+    "longitude": 119.5479,
+    "facilityType": "gigafactory",
+    "batteryChemistry": ["LFP", "NMC811"],
+    "annualCapacity": {
+      "value": 150.0,
+      "unit": "GWh"
+    },
+    "lithiumInput": {
+      "value": 180000,
+      "unit": "tonnes/yr",
+      "material": "Li₂CO₃"
+    },
+    "energyConsumption": {
+      "value": 130,
+      "unit": "kWh/kWh_battery"
+    },
+    "renewableEnergyPercent": 40,
+    "utilizationRate": 88.5,
+    "status": "operational",
+    "commissioningDate": "2015-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "BATT_2024_KR_001",
+    "name": "LG Energy Solution Ochang Plant",
+    "entityType": "battery_manufacturing",
+    "operator": "LG Energy Solution",
+    "country": "KR",
+    "countryName": "South Korea",
+    "stateProvince": "North Chungcheong",
+    "latitude": 36.7167,
+    "longitude": 127.5754,
+    "facilityType": "battery_plant",
+    "batteryChemistry": ["NCA", "NMC811"],
+    "annualCapacity": {
+      "value": 42.0,
+      "unit": "GWh"
+    },
+    "lithiumInput": {
+      "value": 50000,
+      "unit": "tonnes/yr",
+      "material": "LiOH"
+    },
+    "energyConsumption": {
+      "value": 145,
+      "unit": "kWh/kWh_battery"
+    },
+    "renewableEnergyPercent": 55,
+    "utilizationRate": 84.3,
+    "status": "operational",
+    "commissioningDate": "2018-01-01",
+    "confidenceLevel": "HIGH"
+  },
+  {
+    "id": "BATT_2024_SE_001",
+    "name": "Northvolt Ett (Gigafactory Europe)",
+    "entityType": "battery_manufacturing",
+    "operator": "Northvolt",
+    "country": "SE",
+    "countryName": "Sweden",
+    "stateProvince": "Norrbotten",
+    "latitude": 65.6167,
+    "longitude": 22.1333,
+    "facilityType": "gigafactory",
+    "batteryChemistry": ["NCA", "NMC811"],
+    "annualCapacity": {
+      "value": 40.0,
+      "unit": "GWh"
+    },
+    "lithiumInput": {
+      "value": 48000,
+      "unit": "tonnes/yr",
+      "material": "LiOH"
+    },
+    "energyConsumption": {
+      "value": 135,
+      "unit": "kWh/kWh_battery"
+    },
+    "renewableEnergyPercent": 90,
+    "status": "under_construction",
+    "confidenceLevel": "MEDIUM"
+  }
+]
