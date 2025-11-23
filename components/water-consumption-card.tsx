@@ -52,7 +52,6 @@ export function WaterConsumptionCard() {
         {/* Chart Section */}
         <div className="mb-4">
           <div className="h-20 -mx-2">
-          <div className="h-20 -mx-2">
             <ResponsiveContainer width="100%" height="100%">
               <ScatterChart margin={{ top: 5, right: 5, left: 5, bottom: 5 }}>
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" />
